@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"hexlet-go/greeting"
+	"github.com/altwazar/hexlet-go/v2/greeting"
 	// Здесь должен быть импорт пакета greeting
 )
 
